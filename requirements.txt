@@ -1,0 +1,10 @@
+# Versions used to produce results/ (Python 3.12). NumPy, SciPy, pandas and
+# statsmodels match the environment of the original analysis.
+numpy==2.1.3
+scipy==1.17.0
+pandas==2.2.3
+statsmodels==0.14.6
+scikit-learn==1.9.1
+factor_analyzer==0.5.1
+matplotlib==3.11.2
+tabulate==0.10.0

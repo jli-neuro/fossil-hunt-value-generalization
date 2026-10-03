@@ -1,0 +1,82 @@
+{
+  "model": "Zorowitz weighted-extrema temporal-difference learner",
+  "citation": "Zorowitz, Momennejad, and Daw (2020), Eq. 3",
+  "operator": "w*max(Q_next) + (1-w)*min(Q_next)",
+  "reported_state_value": "max_a Q_w(s,a)",
+  "environment": {
+    "states": 10,
+    "actions": [
+      "left",
+      "right"
+    ],
+    "episode_start": "uniform over interior states 1..8",
+    "nonrewarded_terminal": {
+      "position": 0,
+      "reward": 0.0
+    },
+    "rewarded_terminal": {
+      "position": 90,
+      "reward_distribution": "Bernoulli(0.85)"
+    },
+    "terminal_plot_anchors": [
+      0.0,
+      0.85
+    ]
+  },
+  "configuration": {
+    "w_values": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "n_runs": 20,
+    "n_episodes": 100,
+    "alpha": 0.1,
+    "gamma": 0.8,
+    "epsilon": 0.2,
+    "max_steps": 200,
+    "beta": 3.0,
+    "seed": 1
+  },
+  "choice_mapping": "binary softmax against zero, followed by within-run endpoint rescaling to [0,1] (retained from the prior plotting pipeline)",
+  "curve_fit": {
+    "function": "4-parameter logistic on physical positions 0..90",
+    "bounds": {
+      "lower_asymptote": [
+        0.0,
+        0.01
+      ],
+      "upper_asymptote": [
+        0.99,
+        1.0
+      ],
+      "midpoint": [
+        0.0,
+        90.0
+      ],
+      "scale": [
+        0.1,
+        90.0
+      ]
+    },
+    "reporting_transform": "mu_sim = 90 - physical-coordinate midpoint"
+  },
+  "sem_convention": "population SD / sqrt(20), ddof=0 (legacy replication)",
+  "verification": {
+    "valid_fits": 100,
+    "total_fits": 100,
+    "timeouts": 0,
+    "maximum_episode_length": 101,
+    "positive_qmin_interior_run_states": 544,
+    "nonzero_action_gap_interior_run_states": 660
+  },
+  "statistics": {
+    "condition_mean_correlation_r": 0.9582500359051718,
+    "condition_mean_correlation_p": 0.010176054210659438,
+    "pooled_run_correlation_r": 0.9525388283429772,
+    "pooled_run_correlation_p": 2.0223791502226275e-52,
+    "mean_logistic_r_squared": 0.9952212002744822
+  }
+}

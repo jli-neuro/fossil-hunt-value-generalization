@@ -1,0 +1,27 @@
+# Participant-level data: never commit (see data/README.md)
+data/*
+!data/README.md
+!data/data_dictionary.csv
+derived/
+
+# Simulation outputs before run_all.sh moves them to results/simulation/
+code/simulation/figures/
+code/simulation/simulation_*.csv
+code/simulation/simulation_*.json
+code/simulation/simulation_*.npz
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS and editors
+.DS_Store
+.vscode/
+.idea/
+*.swp

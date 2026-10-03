@@ -1,0 +1,152 @@
+file,column,description,missing_count,observed_min,observed_max
+questionnaire_items.csv,participant_id,"Randomly assigned release ID, shared across all participant tables.",0,,
+questionnaire_items.csv,SU_01,7-Up numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,0,2
+questionnaire_items.csv,SU_02,7-Up numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,SU_03,7-Up numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,0,2
+questionnaire_items.csv,SU_04,7-Up numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,0,2
+questionnaire_items.csv,SU_05,7-Up numeric item 5 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,SU_06,7-Up numeric item 6 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,SU_07,7-Up numeric item 7 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,SD_01,7-Down numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,SD_02,7-Down numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,SD_03,7-Down numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,SD_04,7-Down numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,SD_05,7-Down numeric item 5 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,SD_06,7-Down numeric item 6 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,SD_07,7-Down numeric item 7 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,bisbas_01,BIS/BAS numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,bisbas_02,BIS/BAS numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,bisbas_03,BIS/BAS numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,bisbas_04,BIS/BAS numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,bisbas_05,BIS/BAS numeric item 5 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,bisbas_06,BIS/BAS numeric item 6 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,bisbas_07,BIS/BAS numeric item 7 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,bisbas_08,BIS/BAS numeric item 8 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,bisbas_09,BIS/BAS numeric item 9 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,bisbas_10,BIS/BAS numeric item 10 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,bisbas_11,BIS/BAS numeric item 11 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,bisbas_12,BIS/BAS numeric item 12 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,gad7_01,GAD-7 numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,gad7_02,GAD-7 numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,gad7_03,GAD-7 numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,gad7_04,GAD-7 numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,gad7_05,GAD-7 numeric item 5 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,gad7_06,GAD-7 numeric item 6 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,gad7_07,GAD-7 numeric item 7 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,pswq_01,PSWQ numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pswq_02,PSWQ numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pswq_03,PSWQ numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,shaps_01,SHAPS numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_02,SHAPS numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_03,SHAPS numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_04,SHAPS numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_05,SHAPS numeric item 5 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_06,SHAPS numeric item 6 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_07,SHAPS numeric item 7 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_08,SHAPS numeric item 8 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_09,SHAPS numeric item 9 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_10,SHAPS numeric item 10 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_11,SHAPS numeric item 11 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_12,SHAPS numeric item 12 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_13,SHAPS numeric item 13 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,shaps_14,SHAPS numeric item 14 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,ngs_01,NGS numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,1.0,7.0
+questionnaire_items.csv,ngs_02,NGS numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,1.0,7.0
+questionnaire_items.csv,ngs_03,NGS numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,1.0,7.0
+questionnaire_items.csv,ngs_04,NGS numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,1.0,7.0
+questionnaire_items.csv,ngs_05,NGS numeric item 5 in substantive-item order; attention checks excluded. See item coding notes.,0,1.0,7.0
+questionnaire_items.csv,ngs_06,NGS numeric item 6 in substantive-item order; attention checks excluded. See item coding notes.,0,1.0,7.0
+questionnaire_items.csv,ngs_07,NGS numeric item 7 in substantive-item order; attention checks excluded. See item coding notes.,0,1.0,7.0
+questionnaire_items.csv,pog_01,POG numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_02,POG numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_03,POG numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_04,POG numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_05,POG numeric item 5 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_06,POG numeric item 6 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_07,POG numeric item 7 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_08,POG numeric item 8 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_09,POG numeric item 9 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_10,POG numeric item 10 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_11,POG numeric item 11 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_12,POG numeric item 12 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_13,POG numeric item 13 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_14,POG numeric item 14 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_15,POG numeric item 15 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,pog_16,POG numeric item 16 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,phq_01,PHQ-9 numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,phq_02,PHQ-9 numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,phq_03,PHQ-9 numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,phq_04,PHQ-9 numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,phq_05,PHQ-9 numeric item 5 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,phq_06,PHQ-9 numeric item 6 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,phq_07,PHQ-9 numeric item 7 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,phq_08,PHQ-9 numeric item 8 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,phq_09,PHQ-9 numeric item 9 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,pmq_01,PMQ-9 numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,pmq_02,PMQ-9 numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,pmq_03,PMQ-9 numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,0,2
+questionnaire_items.csv,pmq_04,PMQ-9 numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,0,2
+questionnaire_items.csv,pmq_05,PMQ-9 numeric item 5 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,pmq_06,PMQ-9 numeric item 6 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,pmq_07,PMQ-9 numeric item 7 in substantive-item order; attention checks excluded. See item coding notes.,0,0,2
+questionnaire_items.csv,pmq_08,PMQ-9 numeric item 8 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,pmq_09,PMQ-9 numeric item 9 in substantive-item order; attention checks excluded. See item coding notes.,0,0,3
+questionnaire_items.csv,gse_01,GSE numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,gse_02,GSE numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,gse_03,GSE numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,gse_04,GSE numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,gse_05,GSE numeric item 5 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,gse_06,GSE numeric item 6 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,gse_07,GSE numeric item 7 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,gse_08,GSE numeric item 8 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,gse_09,GSE numeric item 9 in substantive-item order; attention checks excluded. See item coding notes.,0,2,4
+questionnaire_items.csv,gse_10,GSE numeric item 10 in substantive-item order; attention checks excluded. See item coding notes.,0,1,4
+questionnaire_items.csv,ie4_01,IE-4 numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,ie4_02,IE-4 numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,ie4_03,IE-4 numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,ie4_04,IE-4 numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_01,WASSUP numeric item 1 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_02,WASSUP numeric item 2 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_03,WASSUP numeric item 3 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_04,WASSUP numeric item 4 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_05,WASSUP numeric item 5 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_06,WASSUP numeric item 6 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_07,WASSUP numeric item 7 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_08,WASSUP numeric item 8 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_09,WASSUP numeric item 9 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_10,WASSUP numeric item 10 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_11,WASSUP numeric item 11 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_12,WASSUP numeric item 12 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_13,WASSUP numeric item 13 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_14,WASSUP numeric item 14 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_15,WASSUP numeric item 15 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_16,WASSUP numeric item 16 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_17,WASSUP numeric item 17 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_18,WASSUP numeric item 18 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_19,WASSUP numeric item 19 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_20,WASSUP numeric item 20 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_21,WASSUP numeric item 21 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_22,WASSUP numeric item 22 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_23,WASSUP numeric item 23 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_24,WASSUP numeric item 24 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_25,WASSUP numeric item 25 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_26,WASSUP numeric item 26 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_27,WASSUP numeric item 27 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_28,WASSUP numeric item 28 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_29,WASSUP numeric item 29 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+questionnaire_items.csv,wassup_30,WASSUP numeric item 30 in substantive-item order; attention checks excluded. See item coding notes.,0,1,5
+test_trials.csv,participant_id,"Randomly assigned release ID, shared across all participant tables.",0,,
+test_trials.csv,trial_index,1-based row order in the parsed test-trial source; resets per participant.,0,1,90
+test_trials.csv,selected_q,"Source task counterbalancing code (1 or 2), retained unchanged.",0,1,2
+test_trials.csv,r_bin,"Legacy reward-normalized stimulus coordinate: 0 = nonrewarded, 90 = rewarded.",0,0,90
+test_trials.csv,pred_reward,"Binary predicted reward response: 1 = reward, 0 = no reward.",0,0,1
+test_trials.csv,rt,"Response time in seconds, retained even when outside the RT analysis window.",0,0.0011,155.4136
+test_trials.csv,block,Test block number (1 or 2).,0,1,2
+test_trials.csv,distance_from_rewarded_endpoint,"Reporting stimulus coordinate: 90-r_bin; 0 = rewarded, 90 = nonrewarded.",0,0,90
+test_trials.csv,rt_valid,True if response time is finite and within the inclusive 0.2 to 8.0 second window.,0,False,True
+reported_psychometric_fits.csv,participant_id,"Randomly assigned release ID, shared across all participant tables.",0,,
+reported_psychometric_fits.csv,analysis_order,Order in which participants were processed in the original analysis (1-163); used only to assign the random-number streams of the parameter-recovery simulation.,0,1.0,163.0
+reported_psychometric_fits.csv,mu,"Reported 4PL boundary (generalization breadth) in the reporting coordinate d (0 = rewarded, 90 = nonrewarded).",0,20.294716867602972,79.44783611314608
+reported_psychometric_fits.csv,sigma,Reported 4PL scale (sigma > 0; smaller = sharper boundary).,0,0.105612423989928,30.59599593078949
+reported_psychometric_fits.csv,gamma,Reported 4PL lower asymptote (proportion 'valuable' far from the rewarded exemplar).,0,9.225628127730171e-33,0.6043668896817076
+reported_psychometric_fits.csv,lambda,Reported 4PL upper asymptote (proportion 'valuable' near the rewarded exemplar).,0,0.6961532911829458,1.0

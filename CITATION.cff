@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Fossil Hunt: analysis code for value generalization and positive overgeneralization"
+type: software
+license: MIT
+authors:
+  - family-names: Li
+    given-names: Jing
+  - family-names: Malaviya
+    given-names: Maya
+  - family-names: Bennett
+    given-names: Daniel
+  - family-names: Radulescu
+    given-names: Angela
+preferred-citation:
+  type: article
+  title: "Value Generalization along a Perceptual Continuum Tracks Self-Reported Positive Overgeneralization and Bipolar Traits"
+  authors:
+    - family-names: Li
+      given-names: Jing
+    - family-names: Malaviya
+      given-names: Maya
+    - family-names: Bennett
+      given-names: Daniel
+    - family-names: Radulescu
+      given-names: Angela
+  journal: bioRxiv
+  year: 2026
+  doi: "10.64898/2026.07.12.737635"
